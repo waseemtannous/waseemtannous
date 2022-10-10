@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waseem Tannous</h1>
-<h3 align="center">M.Sc Computer Science student.</h3>
+<h3 align="center">DevOps Engineer at Amdocs and M.Sc Computer Science student.</h3>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
