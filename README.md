@@ -19,7 +19,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Devops:</h3>
+<h3 align="left">DevOps:</h3>
 <p align="left">
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons/gcp.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="icons/aws.svg" alt="aws" width="40" height="40"/> </a>
